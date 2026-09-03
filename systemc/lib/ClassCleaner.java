@@ -1,7 +1,5 @@
 package systemc.lib;
 
-// C:/Program Files/SystemC
-
 import java.lang.ref.Cleaner;
 import java.lang.foreign.*;
 import java.lang.invoke.MethodHandle;
