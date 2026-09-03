@@ -1,0 +1,1 @@
+g++ -shared -std=c++17 -I "D:\software\SystemC\include" csrc/systemc_wrapper.cc -L "D:\software\SystemC\lib" -lsystemc -o systemc_wrapper.dll
